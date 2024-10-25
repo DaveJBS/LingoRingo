@@ -5,10 +5,10 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
 
-public class ProjetWeb2SpringBootApplication {
+public class ProjetSpringBootLingoRingoApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(ProjetWeb2SpringBootApplication.class, args);
+		SpringApplication.run(ProjetSpringBootLingoRingoApplication.class, args);
 	}
 
 
